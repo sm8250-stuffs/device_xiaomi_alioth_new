@@ -29,6 +29,9 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 # Gapps
 WITH_GMS := true
 
+# Nuke AudioFX
+TARGET_EXCLUDES_AUDIOFX := true
+
 # Rom Specific Flags
 TARGET_INCLUDE_WIFI_EXT := true
 TARGET_BOOT_ANIMATION_RES := 1080
