@@ -16,7 +16,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product, device/xiaomi/alioth/device.mk)
 
 # Google Basic apps
-$(call inherit-product-if-exists, vendor/gapps/Android.mk)
+$(call inherit-product-if-exists, vendor/gapps/common/common-vendor.mk)
 
 PRODUCT_NAME := lineage_alioth
 PRODUCT_DEVICE := alioth
