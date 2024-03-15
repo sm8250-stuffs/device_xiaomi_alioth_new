@@ -26,6 +26,9 @@ PRODUCT_MODEL := POCO F3
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
+# Gapps
+WITH_GMS := true
+
 # Rom Specific Flags
 TARGET_INCLUDE_WIFI_EXT := true
 TARGET_BOOT_ANIMATION_RES := 1080
