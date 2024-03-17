@@ -16,6 +16,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     Velvet \
     MaestroPrebuilt \
     AndroidAutoStubPrebuilt \
+    AndroidAutoStub \
     talkback \
     SafetyHubPrebuilt \
     SoundAmplifierPrebuilt \
@@ -30,6 +31,11 @@ LOCAL_OVERRIDES_PACKAGES := \
     MusicFX \
     SprintDM \
     SprintHM \
+    Matlog \
+    Jelly \
+    Eleven \
+    Aperture \
+    Glimpse \
     VZWAPNLib \
     VzwOmaTrigger \
     YouTube \
