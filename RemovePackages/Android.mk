@@ -31,7 +31,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     MusicFX \
     SprintDM \
     SprintHM \
-    Matlog \
+    MatLog \
     Jelly \
     Eleven \
     Aperture \
